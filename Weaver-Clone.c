@@ -12,9 +12,6 @@
 #include <string.h>
 #include <stdbool.h>
 
-
-
-
 ///*Functions*///==========================================================================
 
 /*goes through the words.txt file and creates an array filled with all words that are the user-inputted length*/
