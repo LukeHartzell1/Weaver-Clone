@@ -322,14 +322,6 @@ while(menuOption != 3){
   }
 }
 
-
-  
-    // for(int j = 0; j < numWordsInDictionary; j++){/////////////////////////////////
-    //  printf("%s \n", (wordList)[j]);/////////////////////////////
-  // }
-
-
-
 free(firstWord);
 free(endWord);
 free(wordList);
